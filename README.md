@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Markel+Ramiro+%F0%9F%91%8B;Software+Engineer+%40+Multiverse+Computing;AI+%7C+ML+%7C+Cloud+%7C+Quantum;Building+intelligent+systems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I'm+Markel+Ramiro+%F0%9F%91%8B;Software+Engineer+%E2%80%A2+Multiverse+Computing;AI+%7C+ML+%7C+Cloud+%7C+Quantum;Building+intelligent+systems" alt="Typing SVG" /></a>
 
 **Software Engineer @ [Multiverse Computing](https://multiversecomputing.com)**
 
@@ -85,8 +85,15 @@ Software Engineer with a B.Sc. in Artificial Intelligence from the University of
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Riemann-def&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riemann-def&layout=compact&theme=github_dark&hide_border=true" height="170" alt="languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Riemann-def&theme=github_dark" height="170" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riemann-def&theme=github_dark" height="170" alt="languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Riemann-def&theme=github_dark&utcOffset=1" height="170" alt="productive time" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Riemann-def&theme=github_dark" alt="profile details" />
 
 </div>
 
