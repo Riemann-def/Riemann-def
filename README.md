@@ -1,10 +1,8 @@
 <div align="center">
 
-# Markel Ramiro
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Markel+Ramiro+%F0%9F%91%8B;Software+Engineer+%40+Multiverse+Computing;AI+%7C+ML+%7C+Cloud+%7C+Quantum;Building+intelligent+systems" alt="Typing SVG" /></a>
 
 **Software Engineer @ [Multiverse Computing](https://multiversecomputing.com)**
-
-Building AI-powered systems at the intersection of quantum computing and machine learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markel-ramiro-vaquero-92530319b/)
 [![Website](https://img.shields.io/badge/markelramiro.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://markelramiro.com)
@@ -90,7 +88,29 @@ Software Engineer with a B.Sc. in Artificial Intelligence from the University of
 <img src="https://github-readme-stats.vercel.app/api?username=Riemann-def&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riemann-def&layout=compact&theme=github_dark&hide_border=true" height="170" alt="languages" />
 
-<img src="https://streak-stats.demolab.com?user=Riemann-def&theme=github-dark-blue&hide_border=true" height="200" alt="streak" />
+</div>
+
+---
+
+### Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Riemann-def&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riemann-def/Riemann-def/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riemann-def/Riemann-def/output/github-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/Riemann-def/Riemann-def/output/github-snake.svg" />
+</picture>
 
 </div>
 
